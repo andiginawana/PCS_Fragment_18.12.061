@@ -1,0 +1,3 @@
+include ':navagation'
+include ':app'
+rootProject.name = "Fragment_18.12.0601"
